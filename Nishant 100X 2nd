@@ -1,0 +1,26 @@
+📄 PRD Generation Prompt
+Act as a senior product manager. I want you to write a detailed Product Requirements Document (PRD) for the following feature/product:
+
+[Insert your feature or product idea here — e.g., “in-app credit score tracker for a personal finance app”]
+
+The PRD should include the following sections:
+
+Overview – What is this feature/product and why are we building it?
+
+Goals & Success Metrics – What are we trying to achieve? What does success look like?
+
+User Stories – Break down key use cases (with user personas if relevant).
+
+Scope – Define what’s in scope and out of scope.
+
+Requirements – Functional and non-functional requirements.
+
+User Flows / UX – Describe the expected user journey (include mockup instructions if needed).
+
+Dependencies – List tech, design, legal, or third-party dependencies.
+
+Analytics & Tracking – What should be measured?
+
+Edge Cases & Constraints – Anything that can go wrong or must be handled.
+
+Timeline / Milestones – Optional, if needed.
